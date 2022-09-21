@@ -1,0 +1,1 @@
+this is just a sample push doc. For you to push code to github...you need to be in the directory with the said code 2. you must first initialize with the git init command. 3. add yur files to git. 4 make a commit 5.Create a branch if you want to.
